@@ -1,0 +1,182 @@
+
+.btn{
+    background-color: black;
+    color:white;
+    padding:7px 12px;
+    border: none;
+    cursor: pointer;
+     touch-action: ;
+}
+.a{
+    background-color:rgb(71, 71, 248);
+    color:white;
+    border:none;
+    padding:7px 12px;
+    cursor: pointer;
+    
+}
+
+.b{
+    background-color: rgba(251, 243, 243, 0.955);
+    border:none;
+    padding:7px 12px;
+    cursor: pointer;
+}
+div{
+    padding-right: 15%;
+}
+.c{
+    background-color: black;
+    color:white;
+    padding:7px 12px;
+    border: none;
+    cursor: pointer;
+}
+
+div1{
+    background-color:black;
+}
+@media screen and (min-width:1100px) and (max-width:1400px){
+    html,body{
+        height:100%;
+        width: 100%;
+        margin:0;
+        padding:0;
+        overflow-x:hidden;
+    }
+    
+    img
+    {
+    width:100%;
+    height:50%;
+    }
+    #z{
+        width:16.29%;
+        height: 16.29%;
+    }
+    #y{
+        width:2.22%;
+        height:2.22%;
+    }
+    #x{
+        width:18.51%;
+        float:left;
+    }
+    #w{
+        width:2.22%;
+    
+    }
+    #v{
+        width:14.81%;
+        height:5%;
+    
+        margin-right:35%;
+    
+    }
+    p{
+        width:100%;
+        margin-right:35%;
+    }
+    
+    }
+    
+    
+    
+    
+
+
+@media screen and (min-width:700px) and (max-width:1100px)
+{
+
+    html,body{
+        height:100%;
+        width: 100%;
+        margin:0;
+        padding:0;
+        overflow-x:hidden;
+    }
+    
+    img
+    {
+    width:100%;
+    height:50%;
+    }
+    #z{
+        width:16.29%;
+        height: 16.29%;
+    }
+    #y{
+        width:2.22%;
+        height:2.22%;
+    }
+    #x{
+        width:18.51%;
+        float:left;
+    }
+    #w{
+        width:2.22%;
+    
+    }
+    #v{
+        width:14.81%;
+        height:5%;
+    
+        margin-right:45%;
+    
+    }
+    #l{
+        width:100%;
+        margin-right:45%;
+    }
+
+}
+
+@media screen and (max-width:700px)
+{
+
+    html,body{
+        height:100%;
+        width: 100%;
+        margin:0;
+        padding:0;
+        overflow-x:hidden;
+    }
+    
+    img
+    {
+    width:100%;
+    height:50%;
+    }
+    #z{
+        width:16.29%;
+        height: 16.29%;
+    }
+    #y{
+        width:2.22%;
+        height:2.22%;
+    }
+    #x{
+        width:18.51%;
+        float:left;
+    }
+    #w{
+        width:2.22%;
+    
+    }
+    #v{
+        width:14.81%;
+        height:5%;
+    
+        margin-right:75%;
+    
+    }
+    #l{
+        width:100%;
+        margin-right:75%;
+    }
+
+}
+
+
+
+
